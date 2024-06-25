@@ -1,0 +1,67 @@
+[
+    {
+      "id": "Asian",
+      "name": "Asian",
+      "photo": "https://foodhallcookerystudio.com/wp-content/uploads/2020/09/3-Oct-date-night-asian-cuisine-4-to-6-30-1024x805.jpg"
+    },
+    {
+      "id": "Bengali",
+      "name": "Bengali",
+      "photo": "https://img-global.cpcdn.com/recipes/37a9b2bf8cf4515e/400x400cq70/photo.jpg"
+    },
+    {
+      "id": "Chinese",
+      "name": "Chinese",
+      "photo": "https://www.loveandoliveoil.com/wp-content/uploads/2015/03/soy-sauce-noodlesH2.jpg"
+    },
+    {
+      "id": "Continental",
+      "name": "Continental",
+      "photo": "https://images.freekaamaal.com/post_images/1579175170.png"
+    },
+    {
+      "id": "Fusion",
+      "name": "Fusion",
+      "photo": "https://magarticles.magzter.com/articles/1632/349416/5cecc5e2aecc0/crp_Evolution-Of-FusionCuisine.jpg"
+    },
+    {
+      "id": "Gujarati",
+      "name": "Gujarati",
+      "photo": "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/02/Dhokla.jpg"
+    },
+    {
+        "id": "Indian",
+        "name": "Indian",
+        "photo": "https://www.indicasoftpower.com/wp-content/uploads/2021/09/5-700x394.jpg"
+    },
+    {
+        "id": "Italian",
+        "name": "Italian",
+        "photo": "https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/content10735.jpg"
+    },
+    {
+        "id": "Mexican",
+        "name": "Mexican",
+        "photo": "https://cdn.cdnparenting.com/articles/2021/04/14124401/489199630.jpg"
+    },
+    {
+        "id": "North Indian",
+        "name": "North Indian",
+        "photo": "https://whitegatefarm.net/wp-content/uploads/2019/01/11015_14_site_clear.jpg"
+    },
+    {
+        "id": "South Indian",
+        "name": "South Indian",
+        "photo": "https://d4t7t8y8xqo0t.cloudfront.net/admin/eazymedia/trends/3091/16164196070.jpg"
+    },
+    {
+        "id": "Punjabi",
+        "name": "Punjabi",
+        "photo": "https://d4t7t8y8xqo0t.cloudfront.net/resized/750X436/eazytrendz%2F2304%2Ftrend20190218075608.jpg"
+    },
+    {
+        "id": "Thai",
+        "name": "Thai",
+        "photo": "https://cupfulofkale.com/wp-content/uploads/2020/01/Vegan-Thai-Green-Curry-with-Tofu-and-Vegetables-720x720.jpeg"
+    }
+  ]
